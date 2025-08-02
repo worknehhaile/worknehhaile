@@ -17,16 +17,16 @@ Here are a few things I’ve built:
 
 - 🖥️ [My Portfolio Website](#) — A personal site showcasing my skills and work  
 - 🗃️ [Todo App](#) — Simple task manager using React  
-- 🔐 [Login System](#) — A basic auth system using local storage
+- 🔐 [Admin panel for a job posting platform called Sheqlee](#) — Admin panel that enables companies and freelancers get connected and for posting jobs.
 
-➡️ Check out more in my [pinned repositories](https://github.com/YOUR_USERNAME)
+➡️ Check out more in my [pinned repositories](https://github.com/worknehhaile)
 
 ---
 
 ## 📫 Let's Connect!
 - 📧 Email: worknehhaile123@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](#)
-- 🌐 Portfolio: [Your Portfolio Link](#)
+- 💼 LinkedIn: linkedin.com/in/worknehhaile
+- 🌐 Portfolio: https://workneh-portfolio.netlify.app/
 
 ---
 
