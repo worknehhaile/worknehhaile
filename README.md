@@ -16,7 +16,6 @@
 Here are a few things I’ve built:
 
 - 🖥️ [My Portfolio Website](#) — A personal site showcasing my skills and work  
-- 🗃️ [Todo App](#) — Simple task manager using React  
 - 🔐 [Admin panel for a job posting platform called Sheqlee](#) — Admin panel that enables companies and freelancers get connected and for posting jobs.
 
 ➡️ Check out more in my [pinned repositories](https://github.com/worknehhaile)
