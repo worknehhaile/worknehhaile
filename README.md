@@ -8,8 +8,7 @@
 - 🌐 HTML | CSS | JavaScript
 - ⚛️ React.js | Tailwind CSS
 - 🛠️ Git | GitHub | VS Code
-- 🧠 Learning: Node.js, MongoDB, Express.js (MERN Stack)
-
+- 🧠 Learning: Node.js, MongoDB, Express.js (MERN Stack) and also laravel and postresql
 ---
 
 ## 💼 Projects
