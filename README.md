@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Workneh Haile
 
-🎓 Recent IT graduate | 💻 Aspiring Frontend Developer | 🌍 Based in Ethiopia
+🎓 Recent IT graduate | 💻 Aspiring Fullstack Developer | 🌍 Based in Ethiopia
 
 ---
 
