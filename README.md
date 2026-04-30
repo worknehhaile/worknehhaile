@@ -6,10 +6,10 @@ I am a dual-degree professional in Information Technologand Business Management 
 ---
  🛠️ Tech Stack & Skills
 
-- Backend & Core:** Laravel, Python, MySQL, PHP
-- Frontend:** React.js, JavaScript, HTML5, CSS3
-- Networking:** Cisco Certified (CCNA) - Enterprise Networking, Security, & Automation[cite: 1]
-- Specializations:** System Automation, Full-Stack Web Development, Digital Marketing[cite: 1]
+- Backend & Core: Laravel, Python, MySQL, PHP
+- Frontend: React.js, JavaScript, HTML5, CSS3
+- Networking: Cisco Certified (CCNA) - Enterprise Networking, Security, & Automation[cite: 1]
+- Specializations: System Automation, Full-Stack Web Development, Digital Marketing[cite: 1]
 
 ---
 
@@ -29,7 +29,7 @@ A desktop application built with Python and MySQL to digitize traditional Ethiop
 🆔 [Smart Student ID Verification System](https://github.com/your-username/id-verification)
 A QR-code-based verification system developed for the Mekelle University campus to streamline identity checks and reduce security workload[cite: 1].
 🌐 [Personal Portfolio](https://workneh-portfolio.netlify.app/)
-A high-performance, mobile-responsive site built using **React and Modular CSS**[cite: 1].
+A high-performance, mobile-responsive site built using React and Modular CSS[cite: 1].
 
 ---
 
@@ -43,8 +43,8 @@ A high-performance, mobile-responsive site built using **React and Modular CSS**
 
 📫 Let's Connect!
 
-- LinkedIn:** [linkedin.com/in/worknehhaile](https://linkedin.com/in/worknehhaile)[cite: 1]
-- Email:** [worknehhaile123@gmail.com](mailto:worknehhaile123@gmail.com)[cite: 1]
-- Portfolio:** [workneh-portfolio.netlify.app](https://workneh-portfolio.netlify.app/)[cite: 1]
+- LinkedIn: [linkedin.com/in/worknehhaile](https://linkedin.com/in/worknehhaile)[cite: 1]
+- Email: [worknehhaile123@gmail.com](mailto:worknehhaile123@gmail.com)[cite: 1]
+- Portfolio: [workneh-portfolio.netlify.app](https://workneh-portfolio.netlify.app/)[cite: 1]
 
 "Solving real-world problems by combining technical expertise with business insight."[cite: 1]
