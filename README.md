@@ -6,30 +6,32 @@ I am a dual-degree professional in Information Technologand Business Management 
 ---
  🛠️ Tech Stack & Skills
 
-- Backend & Core: Laravel, Python, MySQL, PHP
+- Backend & Core: Laravel, Python, PHP, Nodejs, Expressjs
 - Frontend: React.js, JavaScript, HTML5, CSS3
-- Networking: Cisco Certified (CCNA) - Enterprise Networking, Security, & Automation[cite: 1]
-- Specializations: System Automation, Full-Stack Web Development, Digital Marketing[cite: 1]
+- Networking: Cisco Certified (CCNA) - Enterprise Networking, Security, & Automation
+- Specializations: System Automation, Full-Stack Web Development, Digital Marketing
+- Databases: MySQL, MongoDB, Postgresql
+- Tools: Git, Github, Docker, postman, Thunder client
 
 ---
 
 💼 Professional Highlights
 
-- Commercial Bank of Ethiopia:** Junior Information System Officer. Working on the cbenoor core banking project and internet banking systems[cite: 1].
-- DrongoERP: Software Developer. Focused on Laravel-based ERP solutions and client website development[cite: 1].
-- Metnee Systems: Developed responsive React.js admin panels for the Sheqlee job platform[cite: 1].
+- Commercial Bank of Ethiopia: Junior Information System Officer. Working on the cbenoor core banking project and internet banking   systems [https://combanketh.et/]
+- DrongoERP: Software Developer. Focused on Laravel-based ERP solutions and client website development [https://drongoerp.com/]
+- Metnee Systems: Developed responsive React.js admin panels for the Sheqlee job platform.
 
 ---
 
 📊 Featured Projects
 
-🏦 [Automated Equb Management System](https://github.com/your-username/equb-system)
-A desktop application built with Python and MySQL to digitize traditional Ethiopian Equb group savings. Features include transparent member tracking and automated payment histories[cite: 1].
+🏦 Automated Equb Management System: https://github.com/worknehhaile/EQUB-Updated
+A desktop application built with Python and MySQL to digitize traditional Ethiopian Equb group savings. Features include transparent member tracking and automated payment histories.
 
-🆔 [Smart Student ID Verification System](https://github.com/your-username/id-verification)
-A QR-code-based verification system developed for the Mekelle University campus to streamline identity checks and reduce security workload[cite: 1].
-🌐 [Personal Portfolio](https://workneh-portfolio.netlify.app/)
-A high-performance, mobile-responsive site built using React and Modular CSS[cite: 1].
+🆔 Smart Student ID Verification System
+A QR-code-based verification system developed for the Mekelle University campus to streamline identity checks and reduce security workload.
+🌐 Personal Portfolio https://workneh-portfolio.vercel.app/
+A high-performance, mobile-responsive site built using Nextjs and tailwind css.
 
 ---
 
@@ -43,8 +45,8 @@ A high-performance, mobile-responsive site built using React and Modular CSS[cit
 
 📫 Let's Connect!
 
-- LinkedIn: [linkedin.com/in/worknehhaile](https://linkedin.com/in/worknehhaile)[cite: 1]
-- Email: [worknehhaile123@gmail.com](mailto:worknehhaile123@gmail.com)[cite: 1]
-- Portfolio: [workneh-portfolio.netlify.app](https://workneh-portfolio.netlify.app/)[cite: 1]
+- LinkedIn: https://linkedin.com/in/worknehhaile/
+- Email: mailto:worknehhaile123@gmail.com/
+- Portfolio: https://workneh-portfolio.vercel.app/
 
-"Solving real-world problems by combining technical expertise with business insight."[cite: 1]
+"Solving real-world problems by combining technical expertise with business insight."
