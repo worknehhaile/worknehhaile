@@ -1,7 +1,7 @@
 👋 Hi, I'm Workneh Haile Tesfay 
 
 🚀 Information Technology Graduate | Software Developer | CCNA Certified
-I am a dual-degree professional in Information Technologand Business Management with a passion for bridging the gap between technical execution and business strategy. Currently, I am contributing to the Commercial Bank of Ethiopia as a Junior Information System Officer, focusing on core banking projects and system administration.
+- I am a dual-degree professional in Information Technologand Business Management with a passion for bridging the gap between technical execution and business strategy. Currently, I am contributing to the Commercial Bank of Ethiopia as a Junior Information System Officer, focusing on core banking projects and system administration.
 
 ---
  🛠️ Tech Stack & Skills
