@@ -25,13 +25,13 @@ I am a dual-degree professional in Information Technologand Business Management 
 
 📊 Featured Projects
 
-🏦 Automated Equb Management System: https://github.com/worknehhaile/EQUB-Updated
-A desktop application built with Python and MySQL to digitize traditional Ethiopian Equb group savings. Features include transparent member tracking and automated payment histories.
+- Automated Equb Management System: https://github.com/worknehhaile/EQUB-Updated
+   A desktop application built with Python and MySQL to digitize traditional Ethiopian Equb group savings. Features include transparent member        tracking and automated payment histories.
 
-🆔 Smart Student ID Verification System
-A QR-code-based verification system developed for the Mekelle University campus to streamline identity checks and reduce security workload.
-🌐 Personal Portfolio https://workneh-portfolio.vercel.app/
-A high-performance, mobile-responsive site built using Nextjs and tailwind css.
+- Smart Student ID Verification System
+   A QR-code-based verification system developed for the Mekelle University campus to streamline identity checks and reduce security workload.
+- Personal Portfolio https://workneh-portfolio.vercel.app/
+  A high-performance, mobile-responsive site built using Nextjs and tailwind css.
 
 ---
 
